@@ -1,4 +1,4 @@
-package com.luke.learning.infrastructure.dao.po;
+package com.luke.learning.infrastructure.po;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
